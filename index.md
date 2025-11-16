@@ -6,10 +6,10 @@ show_excerpts: true
 entries_layout: list
 ---
 
-È dottorando presso l’Università degli Studi di Padova ed il Conservatorio di Venezia "B. Marcello" presso il quale persegue un progetto di ricerca incentrato sulla sostenibilità della musica elettroacustica.
+È dottorando presso l’Università degli Studi di Padova ed il Conservatorio di Venezia "B. Marcello" dove persegue un progetto di ricerca incentrato sulla sostenibilità della musica elettroacustica.
 
 Ha conseguito studi musicali presso il Conservatorio di Musica di Roma "S. Cecilia" con Michelangelo Lupone, Nicola Bernardini, Giuseppe Silvi e Pasquale Citera, fondando contestualmente la comunità **SEAM** (_Sustained ElectroAcoustic Music_) per la cura e l'interpretazione del repertorio elettroacustico musicale.
-È laureato in Ingegneria Informatica presso l'Università di Roma Tre (RM) e si interessa di tecnologie informatiche ed elettroacustiche del passato e del futuro.
+È laureato in Ingegneria Informatica presso l'Università di Roma Tre (RM) e si interessa di tecnologie informatiche ed elettroacustiche del passato e del futuro volte all'interpretazione della musica elettroacustica.
 
 Si è perfezionato in Live Electronics presso l'Accademia Musicale Chigiana di Siena con Alvise Vidolin e specializzato in Musica Elettronica con applicazioni agli strumenti musicali aumentati presso l'Accademia Nazionale di S.Cecilia di Roma sviluppando **C.A.G.E.** (_Classical Augmented Guitar Equipment_).
 
